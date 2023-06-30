@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @SPalu2097.
+- i live in Estonia. 
+- 👀 I’m interested in full+stack development and I am open minded to learn new knowledge.
+- 🌱 I’m currently learning C# and a little bit Python and HTML,CSS.
+- 💞️ I’m looking to collaborate with a company where I can improve and practice my existing skills.
+-My email ulapnomis@gmail.com 
